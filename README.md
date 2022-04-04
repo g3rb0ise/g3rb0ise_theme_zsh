@@ -17,3 +17,7 @@ cd g3rb0ise_theme_zsh
 
 # open a new shell
 ```
+
+## contribution
+
+If you like my work, you can offer me a coffee via [utip](https://utip.io/g3rb0ise).
